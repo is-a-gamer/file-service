@@ -1,0 +1,4 @@
+port: 6790
+webdav.folder_path: '/'
+webdav.username: 'admin'
+webdav.password: 'password'
